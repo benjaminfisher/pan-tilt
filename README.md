@@ -1,2 +1,2 @@
-pan-tilt
-========
+3d model of a pan-tilt head
+===========================
